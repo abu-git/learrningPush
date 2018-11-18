@@ -1,2 +1,2 @@
-
-print("Git is Awesome!")
+user = input("Enter data: ")
+print("User entered: " + str(user))
